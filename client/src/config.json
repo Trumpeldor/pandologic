@@ -1,0 +1,8 @@
+{
+	"dev": {
+		"apiBaseUrl": "http://localhost:5000"
+	},
+	"dev1": {
+		"apiBaseUrl": "https://localhost:5001"
+	}
+}
