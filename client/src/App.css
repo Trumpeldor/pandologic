@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.logo {
+  margin-top: 10px;
+  width: 200px;
+  height: 57px;
+  display: inline-block;
+  background-image: url('logo.png');
+}

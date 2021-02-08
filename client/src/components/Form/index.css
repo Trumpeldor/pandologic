@@ -1,7 +1,12 @@
-form, button {
-	margin-top: 10px;
+form {
+  margin-top: 10px;
 }
 
 label {
-	margin-right: 5px;
+  margin-right: 5px;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 5px;
 }
