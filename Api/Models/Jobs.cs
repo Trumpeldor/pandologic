@@ -1,6 +1,6 @@
 using System;
 
-namespace Api
+namespace Api.Models
 {
     public class Jobs
     {
