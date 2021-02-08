@@ -4,6 +4,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json;
 
 namespace Api.Controllers
 {
@@ -12,24 +13,7 @@ namespace Api.Controllers
     public class JobsController : ControllerBase
     {
         private readonly ILogger<JobsController> _logger;
-        private static readonly List<Jobs> _jobs;
-
-        static JobsController()
-        {
-            _jobs = new List<Jobs>();
-            var today = DateTime.Now.Date;
-            Random rnd = new Random();
-            for (var i = -365; i <= 0; i++)
-            {
-                _jobs.Add(new Jobs
-                {
-                    Date = today.AddDays(i),
-                    JobViews = rnd.Next(1000),
-                    PredictedJobViews = rnd.Next(500),
-                    ActiveJobs = rnd.Next(100)
-                });
-            }
-        }
+        private static readonly List<Jobs> _jobs = JsonSerializer.Deserialize<List<Jobs>>(System.IO.File.ReadAllText("dataSource.json"));
 
         public JobsController(ILogger<JobsController> logger)
         {

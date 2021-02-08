@@ -1,0 +1,2438 @@
+[
+  {
+    "Date": "2020-01-01",
+    "JobViews": 994,
+    "PredictedJobViews": 422,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-01-02",
+    "JobViews": 412,
+    "PredictedJobViews": 348,
+    "ActiveJobs": 60
+  },
+  {
+    "Date": "2020-01-03",
+    "JobViews": 746,
+    "PredictedJobViews": 267,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2020-01-04",
+    "JobViews": 987,
+    "PredictedJobViews": 344,
+    "ActiveJobs": 79
+  },
+  {
+    "Date": "2020-01-05",
+    "JobViews": 900,
+    "PredictedJobViews": 495,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-01-06",
+    "JobViews": 420,
+    "PredictedJobViews": 284,
+    "ActiveJobs": 34
+  },
+  {
+    "Date": "2020-01-07",
+    "JobViews": 125,
+    "PredictedJobViews": 197,
+    "ActiveJobs": 59
+  },
+  {
+    "Date": "2020-01-08",
+    "JobViews": 702,
+    "PredictedJobViews": 155,
+    "ActiveJobs": 40
+  },
+  {
+    "Date": "2020-01-09",
+    "JobViews": 271,
+    "PredictedJobViews": 399,
+    "ActiveJobs": 86
+  },
+  {
+    "Date": "2020-01-10",
+    "JobViews": 643,
+    "PredictedJobViews": 7,
+    "ActiveJobs": 79
+  },
+  {
+    "Date": "2020-01-11",
+    "JobViews": 882,
+    "PredictedJobViews": 431,
+    "ActiveJobs": 40
+  },
+  {
+    "Date": "2020-01-12",
+    "JobViews": 8,
+    "PredictedJobViews": 452,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2020-01-13",
+    "JobViews": 108,
+    "PredictedJobViews": 439,
+    "ActiveJobs": 73
+  },
+  {
+    "Date": "2020-01-14",
+    "JobViews": 248,
+    "PredictedJobViews": 484,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2020-01-15",
+    "JobViews": 618,
+    "PredictedJobViews": 483,
+    "ActiveJobs": 82
+  },
+  {
+    "Date": "2020-01-16",
+    "JobViews": 311,
+    "PredictedJobViews": 49,
+    "ActiveJobs": 66
+  },
+  {
+    "Date": "2020-01-17",
+    "JobViews": 574,
+    "PredictedJobViews": 200,
+    "ActiveJobs": 6
+  },
+  {
+    "Date": "2020-01-18",
+    "JobViews": 747,
+    "PredictedJobViews": 254,
+    "ActiveJobs": 17
+  },
+  {
+    "Date": "2020-01-19",
+    "JobViews": 460,
+    "PredictedJobViews": 400,
+    "ActiveJobs": 76
+  },
+  {
+    "Date": "2020-01-20",
+    "JobViews": 419,
+    "PredictedJobViews": 478,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-01-21",
+    "JobViews": 147,
+    "PredictedJobViews": 274,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-01-22",
+    "JobViews": 716,
+    "PredictedJobViews": 444,
+    "ActiveJobs": 5
+  },
+  {
+    "Date": "2020-01-23",
+    "JobViews": 715,
+    "PredictedJobViews": 178,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-01-24",
+    "JobViews": 868,
+    "PredictedJobViews": 283,
+    "ActiveJobs": 42
+  },
+  {
+    "Date": "2020-01-25",
+    "JobViews": 32,
+    "PredictedJobViews": 201,
+    "ActiveJobs": 73
+  },
+  {
+    "Date": "2020-01-26",
+    "JobViews": 586,
+    "PredictedJobViews": 120,
+    "ActiveJobs": 69
+  },
+  {
+    "Date": "2020-01-27",
+    "JobViews": 866,
+    "PredictedJobViews": 146,
+    "ActiveJobs": 46
+  },
+  {
+    "Date": "2020-01-28",
+    "JobViews": 795,
+    "PredictedJobViews": 187,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2020-01-29",
+    "JobViews": 505,
+    "PredictedJobViews": 30,
+    "ActiveJobs": 35
+  },
+  {
+    "Date": "2020-01-30",
+    "JobViews": 544,
+    "PredictedJobViews": 454,
+    "ActiveJobs": 1
+  },
+  {
+    "Date": "2020-01-31",
+    "JobViews": 270,
+    "PredictedJobViews": 180,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2020-02-01",
+    "JobViews": 39,
+    "PredictedJobViews": 230,
+    "ActiveJobs": 32
+  },
+  {
+    "Date": "2020-02-02",
+    "JobViews": 915,
+    "PredictedJobViews": 257,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-02-03",
+    "JobViews": 683,
+    "PredictedJobViews": 146,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2020-02-04",
+    "JobViews": 933,
+    "PredictedJobViews": 211,
+    "ActiveJobs": 80
+  },
+  {
+    "Date": "2020-02-05",
+    "JobViews": 145,
+    "PredictedJobViews": 345,
+    "ActiveJobs": 88
+  },
+  {
+    "Date": "2020-02-06",
+    "JobViews": 337,
+    "PredictedJobViews": 489,
+    "ActiveJobs": 90
+  },
+  {
+    "Date": "2020-02-07",
+    "JobViews": 647,
+    "PredictedJobViews": 304,
+    "ActiveJobs": 52
+  },
+  {
+    "Date": "2020-02-08",
+    "JobViews": 692,
+    "PredictedJobViews": 213,
+    "ActiveJobs": 71
+  },
+  {
+    "Date": "2020-02-09",
+    "JobViews": 86,
+    "PredictedJobViews": 168,
+    "ActiveJobs": 53
+  },
+  {
+    "Date": "2020-02-10",
+    "JobViews": 357,
+    "PredictedJobViews": 359,
+    "ActiveJobs": 59
+  },
+  {
+    "Date": "2020-02-11",
+    "JobViews": 203,
+    "PredictedJobViews": 442,
+    "ActiveJobs": 83
+  },
+  {
+    "Date": "2020-02-12",
+    "JobViews": 669,
+    "PredictedJobViews": 145,
+    "ActiveJobs": 86
+  },
+  {
+    "Date": "2020-02-13",
+    "JobViews": 530,
+    "PredictedJobViews": 495,
+    "ActiveJobs": 7
+  },
+  {
+    "Date": "2020-02-14",
+    "JobViews": 865,
+    "PredictedJobViews": 48,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2020-02-15",
+    "JobViews": 119,
+    "PredictedJobViews": 371,
+    "ActiveJobs": 1
+  },
+  {
+    "Date": "2020-02-16",
+    "JobViews": 666,
+    "PredictedJobViews": 316,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-02-17",
+    "JobViews": 309,
+    "PredictedJobViews": 437,
+    "ActiveJobs": 38
+  },
+  {
+    "Date": "2020-02-18",
+    "JobViews": 786,
+    "PredictedJobViews": 321,
+    "ActiveJobs": 35
+  },
+  {
+    "Date": "2020-02-19",
+    "JobViews": 152,
+    "PredictedJobViews": 22,
+    "ActiveJobs": 69
+  },
+  {
+    "Date": "2020-02-20",
+    "JobViews": 506,
+    "PredictedJobViews": 295,
+    "ActiveJobs": 7
+  },
+  {
+    "Date": "2020-02-21",
+    "JobViews": 90,
+    "PredictedJobViews": 64,
+    "ActiveJobs": 18
+  },
+  {
+    "Date": "2020-02-22",
+    "JobViews": 114,
+    "PredictedJobViews": 165,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2020-02-23",
+    "JobViews": 449,
+    "PredictedJobViews": 271,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-02-24",
+    "JobViews": 952,
+    "PredictedJobViews": 298,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2020-02-25",
+    "JobViews": 156,
+    "PredictedJobViews": 179,
+    "ActiveJobs": 95
+  },
+  {
+    "Date": "2020-02-26",
+    "JobViews": 521,
+    "PredictedJobViews": 267,
+    "ActiveJobs": 25
+  },
+  {
+    "Date": "2020-02-27",
+    "JobViews": 260,
+    "PredictedJobViews": 194,
+    "ActiveJobs": 77
+  },
+  {
+    "Date": "2020-02-28",
+    "JobViews": 845,
+    "PredictedJobViews": 376,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-03-01",
+    "JobViews": 926,
+    "PredictedJobViews": 282,
+    "ActiveJobs": 30
+  },
+  {
+    "Date": "2020-03-02",
+    "JobViews": 986,
+    "PredictedJobViews": 414,
+    "ActiveJobs": 59
+  },
+  {
+    "Date": "2020-03-03",
+    "JobViews": 103,
+    "PredictedJobViews": 308,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-03-04",
+    "JobViews": 852,
+    "PredictedJobViews": 269,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-03-05",
+    "JobViews": 26,
+    "PredictedJobViews": 33,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2020-03-06",
+    "JobViews": 606,
+    "PredictedJobViews": 372,
+    "ActiveJobs": 71
+  },
+  {
+    "Date": "2020-03-07",
+    "JobViews": 515,
+    "PredictedJobViews": 179,
+    "ActiveJobs": 38
+  },
+  {
+    "Date": "2020-03-08",
+    "JobViews": 920,
+    "PredictedJobViews": 209,
+    "ActiveJobs": 39
+  },
+  {
+    "Date": "2020-03-09",
+    "JobViews": 385,
+    "PredictedJobViews": 454,
+    "ActiveJobs": 36
+  },
+  {
+    "Date": "2020-03-10",
+    "JobViews": 47,
+    "PredictedJobViews": 397,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-03-11",
+    "JobViews": 606,
+    "PredictedJobViews": 64,
+    "ActiveJobs": 92
+  },
+  {
+    "Date": "2020-03-12",
+    "JobViews": 775,
+    "PredictedJobViews": 254,
+    "ActiveJobs": 42
+  },
+  {
+    "Date": "2020-03-13",
+    "JobViews": 679,
+    "PredictedJobViews": 369,
+    "ActiveJobs": 65
+  },
+  {
+    "Date": "2020-03-14",
+    "JobViews": 643,
+    "PredictedJobViews": 143,
+    "ActiveJobs": 90
+  },
+  {
+    "Date": "2020-03-15",
+    "JobViews": 667,
+    "PredictedJobViews": 99,
+    "ActiveJobs": 2
+  },
+  {
+    "Date": "2020-03-16",
+    "JobViews": 252,
+    "PredictedJobViews": 256,
+    "ActiveJobs": 24
+  },
+  {
+    "Date": "2020-03-17",
+    "JobViews": 621,
+    "PredictedJobViews": 62,
+    "ActiveJobs": 13
+  },
+  {
+    "Date": "2020-03-18",
+    "JobViews": 990,
+    "PredictedJobViews": 176,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2020-03-19",
+    "JobViews": 661,
+    "PredictedJobViews": 248,
+    "ActiveJobs": 84
+  },
+  {
+    "Date": "2020-03-20",
+    "JobViews": 341,
+    "PredictedJobViews": 391,
+    "ActiveJobs": 87
+  },
+  {
+    "Date": "2020-03-21",
+    "JobViews": 17,
+    "PredictedJobViews": 0,
+    "ActiveJobs": 89
+  },
+  {
+    "Date": "2020-03-22",
+    "JobViews": 232,
+    "PredictedJobViews": 201,
+    "ActiveJobs": 79
+  },
+  {
+    "Date": "2020-03-23",
+    "JobViews": 943,
+    "PredictedJobViews": 362,
+    "ActiveJobs": 68
+  },
+  {
+    "Date": "2020-03-24",
+    "JobViews": 717,
+    "PredictedJobViews": 118,
+    "ActiveJobs": 53
+  },
+  {
+    "Date": "2020-03-25",
+    "JobViews": 10,
+    "PredictedJobViews": 488,
+    "ActiveJobs": 3
+  },
+  {
+    "Date": "2020-03-26",
+    "JobViews": 302,
+    "PredictedJobViews": 100,
+    "ActiveJobs": 8
+  },
+  {
+    "Date": "2020-03-27",
+    "JobViews": 704,
+    "PredictedJobViews": 342,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2020-03-28",
+    "JobViews": 845,
+    "PredictedJobViews": 98,
+    "ActiveJobs": 16
+  },
+  {
+    "Date": "2020-03-29",
+    "JobViews": 722,
+    "PredictedJobViews": 259,
+    "ActiveJobs": 98
+  },
+  {
+    "Date": "2020-03-30",
+    "JobViews": 345,
+    "PredictedJobViews": 306,
+    "ActiveJobs": 38
+  },
+  {
+    "Date": "2020-03-31",
+    "JobViews": 768,
+    "PredictedJobViews": 172,
+    "ActiveJobs": 44
+  },
+  {
+    "Date": "2020-04-01",
+    "JobViews": 461,
+    "PredictedJobViews": 186,
+    "ActiveJobs": 92
+  },
+  {
+    "Date": "2020-04-02",
+    "JobViews": 956,
+    "PredictedJobViews": 388,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2020-04-03",
+    "JobViews": 272,
+    "PredictedJobViews": 274,
+    "ActiveJobs": 74
+  },
+  {
+    "Date": "2020-04-04",
+    "JobViews": 927,
+    "PredictedJobViews": 373,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-04-05",
+    "JobViews": 240,
+    "PredictedJobViews": 74,
+    "ActiveJobs": 91
+  },
+  {
+    "Date": "2020-04-06",
+    "JobViews": 542,
+    "PredictedJobViews": 365,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-04-07",
+    "JobViews": 313,
+    "PredictedJobViews": 289,
+    "ActiveJobs": 70
+  },
+  {
+    "Date": "2020-04-08",
+    "JobViews": 890,
+    "PredictedJobViews": 368,
+    "ActiveJobs": 59
+  },
+  {
+    "Date": "2020-04-09",
+    "JobViews": 132,
+    "PredictedJobViews": 401,
+    "ActiveJobs": 53
+  },
+  {
+    "Date": "2020-04-10",
+    "JobViews": 70,
+    "PredictedJobViews": 194,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-04-11",
+    "JobViews": 194,
+    "PredictedJobViews": 14,
+    "ActiveJobs": 47
+  },
+  {
+    "Date": "2020-04-12",
+    "JobViews": 637,
+    "PredictedJobViews": 182,
+    "ActiveJobs": 29
+  },
+  {
+    "Date": "2020-04-13",
+    "JobViews": 956,
+    "PredictedJobViews": 183,
+    "ActiveJobs": 23
+  },
+  {
+    "Date": "2020-04-14",
+    "JobViews": 335,
+    "PredictedJobViews": 141,
+    "ActiveJobs": 40
+  },
+  {
+    "Date": "2020-04-15",
+    "JobViews": 70,
+    "PredictedJobViews": 42,
+    "ActiveJobs": 68
+  },
+  {
+    "Date": "2020-04-16",
+    "JobViews": 813,
+    "PredictedJobViews": 213,
+    "ActiveJobs": 10
+  },
+  {
+    "Date": "2020-04-17",
+    "JobViews": 456,
+    "PredictedJobViews": 30,
+    "ActiveJobs": 67
+  },
+  {
+    "Date": "2020-04-18",
+    "JobViews": 575,
+    "PredictedJobViews": 452,
+    "ActiveJobs": 70
+  },
+  {
+    "Date": "2020-04-19",
+    "JobViews": 436,
+    "PredictedJobViews": 415,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-04-20",
+    "JobViews": 622,
+    "PredictedJobViews": 497,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-04-21",
+    "JobViews": 620,
+    "PredictedJobViews": 489,
+    "ActiveJobs": 1
+  },
+  {
+    "Date": "2020-04-22",
+    "JobViews": 208,
+    "PredictedJobViews": 355,
+    "ActiveJobs": 77
+  },
+  {
+    "Date": "2020-04-23",
+    "JobViews": 468,
+    "PredictedJobViews": 317,
+    "ActiveJobs": 82
+  },
+  {
+    "Date": "2020-04-24",
+    "JobViews": 660,
+    "PredictedJobViews": 345,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-04-25",
+    "JobViews": 13,
+    "PredictedJobViews": 74,
+    "ActiveJobs": 54
+  },
+  {
+    "Date": "2020-04-26",
+    "JobViews": 380,
+    "PredictedJobViews": 486,
+    "ActiveJobs": 30
+  },
+  {
+    "Date": "2020-04-27",
+    "JobViews": 827,
+    "PredictedJobViews": 357,
+    "ActiveJobs": 79
+  },
+  {
+    "Date": "2020-04-28",
+    "JobViews": 736,
+    "PredictedJobViews": 86,
+    "ActiveJobs": 18
+  },
+  {
+    "Date": "2020-04-29",
+    "JobViews": 587,
+    "PredictedJobViews": 79,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2020-04-30",
+    "JobViews": 490,
+    "PredictedJobViews": 311,
+    "ActiveJobs": 95
+  },
+  {
+    "Date": "2020-05-01",
+    "JobViews": 424,
+    "PredictedJobViews": 9,
+    "ActiveJobs": 99
+  },
+  {
+    "Date": "2020-05-02",
+    "JobViews": 508,
+    "PredictedJobViews": 46,
+    "ActiveJobs": 10
+  },
+  {
+    "Date": "2020-05-03",
+    "JobViews": 555,
+    "PredictedJobViews": 279,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2020-05-04",
+    "JobViews": 848,
+    "PredictedJobViews": 186,
+    "ActiveJobs": 84
+  },
+  {
+    "Date": "2020-05-05",
+    "JobViews": 890,
+    "PredictedJobViews": 404,
+    "ActiveJobs": 94
+  },
+  {
+    "Date": "2020-05-06",
+    "JobViews": 168,
+    "PredictedJobViews": 306,
+    "ActiveJobs": 5
+  },
+  {
+    "Date": "2020-05-07",
+    "JobViews": 514,
+    "PredictedJobViews": 264,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-05-08",
+    "JobViews": 581,
+    "PredictedJobViews": 71,
+    "ActiveJobs": 50
+  },
+  {
+    "Date": "2020-05-09",
+    "JobViews": 589,
+    "PredictedJobViews": 61,
+    "ActiveJobs": 90
+  },
+  {
+    "Date": "2020-05-10",
+    "JobViews": 904,
+    "PredictedJobViews": 129,
+    "ActiveJobs": 65
+  },
+  {
+    "Date": "2020-05-11",
+    "JobViews": 214,
+    "PredictedJobViews": 474,
+    "ActiveJobs": 14
+  },
+  {
+    "Date": "2020-05-12",
+    "JobViews": 823,
+    "PredictedJobViews": 474,
+    "ActiveJobs": 4
+  },
+  {
+    "Date": "2020-05-13",
+    "JobViews": 40,
+    "PredictedJobViews": 181,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2020-05-14",
+    "JobViews": 677,
+    "PredictedJobViews": 30,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2020-05-15",
+    "JobViews": 70,
+    "PredictedJobViews": 318,
+    "ActiveJobs": 60
+  },
+  {
+    "Date": "2020-05-16",
+    "JobViews": 351,
+    "PredictedJobViews": 168,
+    "ActiveJobs": 86
+  },
+  {
+    "Date": "2020-05-17",
+    "JobViews": 275,
+    "PredictedJobViews": 138,
+    "ActiveJobs": 90
+  },
+  {
+    "Date": "2020-05-18",
+    "JobViews": 341,
+    "PredictedJobViews": 209,
+    "ActiveJobs": 77
+  },
+  {
+    "Date": "2020-05-19",
+    "JobViews": 635,
+    "PredictedJobViews": 313,
+    "ActiveJobs": 44
+  },
+  {
+    "Date": "2020-05-20",
+    "JobViews": 998,
+    "PredictedJobViews": 259,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-05-21",
+    "JobViews": 723,
+    "PredictedJobViews": 196,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-05-22",
+    "JobViews": 918,
+    "PredictedJobViews": 132,
+    "ActiveJobs": 24
+  },
+  {
+    "Date": "2020-05-23",
+    "JobViews": 519,
+    "PredictedJobViews": 191,
+    "ActiveJobs": 60
+  },
+  {
+    "Date": "2020-05-24",
+    "JobViews": 771,
+    "PredictedJobViews": 28,
+    "ActiveJobs": 86
+  },
+  {
+    "Date": "2020-05-25",
+    "JobViews": 873,
+    "PredictedJobViews": 292,
+    "ActiveJobs": 89
+  },
+  {
+    "Date": "2020-05-26",
+    "JobViews": 225,
+    "PredictedJobViews": 134,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-05-27",
+    "JobViews": 302,
+    "PredictedJobViews": 199,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2020-05-28",
+    "JobViews": 365,
+    "PredictedJobViews": 175,
+    "ActiveJobs": 60
+  },
+  {
+    "Date": "2020-05-29",
+    "JobViews": 929,
+    "PredictedJobViews": 237,
+    "ActiveJobs": 68
+  },
+  {
+    "Date": "2020-05-30",
+    "JobViews": 409,
+    "PredictedJobViews": 216,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2020-05-31",
+    "JobViews": 775,
+    "PredictedJobViews": 211,
+    "ActiveJobs": 45
+  },
+  {
+    "Date": "2020-06-01",
+    "JobViews": 814,
+    "PredictedJobViews": 341,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2020-06-02",
+    "JobViews": 199,
+    "PredictedJobViews": 343,
+    "ActiveJobs": 80
+  },
+  {
+    "Date": "2020-06-03",
+    "JobViews": 936,
+    "PredictedJobViews": 344,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-06-04",
+    "JobViews": 627,
+    "PredictedJobViews": 363,
+    "ActiveJobs": 90
+  },
+  {
+    "Date": "2020-06-05",
+    "JobViews": 491,
+    "PredictedJobViews": 113,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2020-06-06",
+    "JobViews": 608,
+    "PredictedJobViews": 426,
+    "ActiveJobs": 65
+  },
+  {
+    "Date": "2020-06-07",
+    "JobViews": 384,
+    "PredictedJobViews": 300,
+    "ActiveJobs": 30
+  },
+  {
+    "Date": "2020-06-08",
+    "JobViews": 951,
+    "PredictedJobViews": 432,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-06-09",
+    "JobViews": 750,
+    "PredictedJobViews": 75,
+    "ActiveJobs": 17
+  },
+  {
+    "Date": "2020-06-10",
+    "JobViews": 19,
+    "PredictedJobViews": 438,
+    "ActiveJobs": 52
+  },
+  {
+    "Date": "2020-06-11",
+    "JobViews": 572,
+    "PredictedJobViews": 178,
+    "ActiveJobs": 62
+  },
+  {
+    "Date": "2020-06-12",
+    "JobViews": 403,
+    "PredictedJobViews": 320,
+    "ActiveJobs": 41
+  },
+  {
+    "Date": "2020-06-13",
+    "JobViews": 604,
+    "PredictedJobViews": 462,
+    "ActiveJobs": 11
+  },
+  {
+    "Date": "2020-06-14",
+    "JobViews": 655,
+    "PredictedJobViews": 480,
+    "ActiveJobs": 82
+  },
+  {
+    "Date": "2020-06-15",
+    "JobViews": 508,
+    "PredictedJobViews": 419,
+    "ActiveJobs": 46
+  },
+  {
+    "Date": "2020-06-16",
+    "JobViews": 122,
+    "PredictedJobViews": 397,
+    "ActiveJobs": 88
+  },
+  {
+    "Date": "2020-06-17",
+    "JobViews": 846,
+    "PredictedJobViews": 254,
+    "ActiveJobs": 19
+  },
+  {
+    "Date": "2020-06-18",
+    "JobViews": 595,
+    "PredictedJobViews": 307,
+    "ActiveJobs": 56
+  },
+  {
+    "Date": "2020-06-19",
+    "JobViews": 123,
+    "PredictedJobViews": 23,
+    "ActiveJobs": 10
+  },
+  {
+    "Date": "2020-06-20",
+    "JobViews": 919,
+    "PredictedJobViews": 445,
+    "ActiveJobs": 25
+  },
+  {
+    "Date": "2020-06-21",
+    "JobViews": 252,
+    "PredictedJobViews": 456,
+    "ActiveJobs": 9
+  },
+  {
+    "Date": "2020-06-22",
+    "JobViews": 987,
+    "PredictedJobViews": 84,
+    "ActiveJobs": 13
+  },
+  {
+    "Date": "2020-06-23",
+    "JobViews": 385,
+    "PredictedJobViews": 21,
+    "ActiveJobs": 44
+  },
+  {
+    "Date": "2020-06-24",
+    "JobViews": 65,
+    "PredictedJobViews": 291,
+    "ActiveJobs": 87
+  },
+  {
+    "Date": "2020-06-25",
+    "JobViews": 546,
+    "PredictedJobViews": 423,
+    "ActiveJobs": 91
+  },
+  {
+    "Date": "2020-06-26",
+    "JobViews": 94,
+    "PredictedJobViews": 279,
+    "ActiveJobs": 47
+  },
+  {
+    "Date": "2020-06-27",
+    "JobViews": 782,
+    "PredictedJobViews": 27,
+    "ActiveJobs": 48
+  },
+  {
+    "Date": "2020-06-28",
+    "JobViews": 341,
+    "PredictedJobViews": 457,
+    "ActiveJobs": 72
+  },
+  {
+    "Date": "2020-06-29",
+    "JobViews": 450,
+    "PredictedJobViews": 341,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2020-06-30",
+    "JobViews": 329,
+    "PredictedJobViews": 320,
+    "ActiveJobs": 62
+  },
+  {
+    "Date": "2020-07-01",
+    "JobViews": 566,
+    "PredictedJobViews": 356,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-07-02",
+    "JobViews": 187,
+    "PredictedJobViews": 27,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-07-03",
+    "JobViews": 493,
+    "PredictedJobViews": 463,
+    "ActiveJobs": 18
+  },
+  {
+    "Date": "2020-07-04",
+    "JobViews": 603,
+    "PredictedJobViews": 374,
+    "ActiveJobs": 95
+  },
+  {
+    "Date": "2020-07-05",
+    "JobViews": 280,
+    "PredictedJobViews": 280,
+    "ActiveJobs": 17
+  },
+  {
+    "Date": "2020-07-06",
+    "JobViews": 199,
+    "PredictedJobViews": 426,
+    "ActiveJobs": 47
+  },
+  {
+    "Date": "2020-07-07",
+    "JobViews": 935,
+    "PredictedJobViews": 186,
+    "ActiveJobs": 18
+  },
+  {
+    "Date": "2020-07-08",
+    "JobViews": 859,
+    "PredictedJobViews": 341,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2020-07-09",
+    "JobViews": 819,
+    "PredictedJobViews": 422,
+    "ActiveJobs": 57
+  },
+  {
+    "Date": "2020-07-10",
+    "JobViews": 999,
+    "PredictedJobViews": 468,
+    "ActiveJobs": 13
+  },
+  {
+    "Date": "2020-07-11",
+    "JobViews": 768,
+    "PredictedJobViews": 130,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-07-12",
+    "JobViews": 569,
+    "PredictedJobViews": 104,
+    "ActiveJobs": 91
+  },
+  {
+    "Date": "2020-07-13",
+    "JobViews": 710,
+    "PredictedJobViews": 440,
+    "ActiveJobs": 54
+  },
+  {
+    "Date": "2020-07-14",
+    "JobViews": 899,
+    "PredictedJobViews": 392,
+    "ActiveJobs": 70
+  },
+  {
+    "Date": "2020-07-15",
+    "JobViews": 636,
+    "PredictedJobViews": 280,
+    "ActiveJobs": 52
+  },
+  {
+    "Date": "2020-07-16",
+    "JobViews": 415,
+    "PredictedJobViews": 498,
+    "ActiveJobs": 10
+  },
+  {
+    "Date": "2020-07-17",
+    "JobViews": 994,
+    "PredictedJobViews": 175,
+    "ActiveJobs": 74
+  },
+  {
+    "Date": "2020-07-18",
+    "JobViews": 772,
+    "PredictedJobViews": 318,
+    "ActiveJobs": 7
+  },
+  {
+    "Date": "2020-07-19",
+    "JobViews": 146,
+    "PredictedJobViews": 429,
+    "ActiveJobs": 57
+  },
+  {
+    "Date": "2020-07-20",
+    "JobViews": 905,
+    "PredictedJobViews": 334,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2020-07-21",
+    "JobViews": 950,
+    "PredictedJobViews": 134,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2020-07-22",
+    "JobViews": 516,
+    "PredictedJobViews": 208,
+    "ActiveJobs": 72
+  },
+  {
+    "Date": "2020-07-23",
+    "JobViews": 740,
+    "PredictedJobViews": 482,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2020-07-24",
+    "JobViews": 52,
+    "PredictedJobViews": 374,
+    "ActiveJobs": 67
+  },
+  {
+    "Date": "2020-07-25",
+    "JobViews": 702,
+    "PredictedJobViews": 321,
+    "ActiveJobs": 92
+  },
+  {
+    "Date": "2020-07-26",
+    "JobViews": 903,
+    "PredictedJobViews": 6,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2020-07-27",
+    "JobViews": 285,
+    "PredictedJobViews": 258,
+    "ActiveJobs": 71
+  },
+  {
+    "Date": "2020-07-28",
+    "JobViews": 331,
+    "PredictedJobViews": 363,
+    "ActiveJobs": 80
+  },
+  {
+    "Date": "2020-07-29",
+    "JobViews": 211,
+    "PredictedJobViews": 7,
+    "ActiveJobs": 25
+  },
+  {
+    "Date": "2020-07-30",
+    "JobViews": 75,
+    "PredictedJobViews": 81,
+    "ActiveJobs": 76
+  },
+  {
+    "Date": "2020-07-31",
+    "JobViews": 468,
+    "PredictedJobViews": 9,
+    "ActiveJobs": 50
+  },
+  {
+    "Date": "2020-08-01",
+    "JobViews": 335,
+    "PredictedJobViews": 383,
+    "ActiveJobs": 35
+  },
+  {
+    "Date": "2020-08-02",
+    "JobViews": 701,
+    "PredictedJobViews": 290,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-08-03",
+    "JobViews": 300,
+    "PredictedJobViews": 384,
+    "ActiveJobs": 73
+  },
+  {
+    "Date": "2020-08-04",
+    "JobViews": 377,
+    "PredictedJobViews": 256,
+    "ActiveJobs": 28
+  },
+  {
+    "Date": "2020-08-05",
+    "JobViews": 164,
+    "PredictedJobViews": 190,
+    "ActiveJobs": 28
+  },
+  {
+    "Date": "2020-08-06",
+    "JobViews": 844,
+    "PredictedJobViews": 456,
+    "ActiveJobs": 3
+  },
+  {
+    "Date": "2020-08-07",
+    "JobViews": 219,
+    "PredictedJobViews": 428,
+    "ActiveJobs": 44
+  },
+  {
+    "Date": "2020-08-08",
+    "JobViews": 542,
+    "PredictedJobViews": 127,
+    "ActiveJobs": 16
+  },
+  {
+    "Date": "2020-08-09",
+    "JobViews": 880,
+    "PredictedJobViews": 332,
+    "ActiveJobs": 52
+  },
+  {
+    "Date": "2020-08-10",
+    "JobViews": 371,
+    "PredictedJobViews": 62,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2020-08-11",
+    "JobViews": 897,
+    "PredictedJobViews": 101,
+    "ActiveJobs": 3
+  },
+  {
+    "Date": "2020-08-12",
+    "JobViews": 311,
+    "PredictedJobViews": 231,
+    "ActiveJobs": 17
+  },
+  {
+    "Date": "2020-08-13",
+    "JobViews": 304,
+    "PredictedJobViews": 142,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2020-08-14",
+    "JobViews": 881,
+    "PredictedJobViews": 229,
+    "ActiveJobs": 65
+  },
+  {
+    "Date": "2020-08-15",
+    "JobViews": 931,
+    "PredictedJobViews": 190,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-08-16",
+    "JobViews": 848,
+    "PredictedJobViews": 104,
+    "ActiveJobs": 26
+  },
+  {
+    "Date": "2020-08-17",
+    "JobViews": 490,
+    "PredictedJobViews": 314,
+    "ActiveJobs": 47
+  },
+  {
+    "Date": "2020-08-18",
+    "JobViews": 574,
+    "PredictedJobViews": 236,
+    "ActiveJobs": 25
+  },
+  {
+    "Date": "2020-08-19",
+    "JobViews": 9,
+    "PredictedJobViews": 0,
+    "ActiveJobs": 16
+  },
+  {
+    "Date": "2020-08-20",
+    "JobViews": 965,
+    "PredictedJobViews": 23,
+    "ActiveJobs": 71
+  },
+  {
+    "Date": "2020-08-21",
+    "JobViews": 553,
+    "PredictedJobViews": 256,
+    "ActiveJobs": 91
+  },
+  {
+    "Date": "2020-08-22",
+    "JobViews": 167,
+    "PredictedJobViews": 1,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2020-08-23",
+    "JobViews": 857,
+    "PredictedJobViews": 430,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2020-08-24",
+    "JobViews": 572,
+    "PredictedJobViews": 120,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-08-25",
+    "JobViews": 141,
+    "PredictedJobViews": 250,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2020-08-26",
+    "JobViews": 844,
+    "PredictedJobViews": 389,
+    "ActiveJobs": 70
+  },
+  {
+    "Date": "2020-08-27",
+    "JobViews": 66,
+    "PredictedJobViews": 338,
+    "ActiveJobs": 87
+  },
+  {
+    "Date": "2020-08-28",
+    "JobViews": 544,
+    "PredictedJobViews": 85,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-08-29",
+    "JobViews": 591,
+    "PredictedJobViews": 15,
+    "ActiveJobs": 17
+  },
+  {
+    "Date": "2020-08-30",
+    "JobViews": 323,
+    "PredictedJobViews": 286,
+    "ActiveJobs": 22
+  },
+  {
+    "Date": "2020-08-31",
+    "JobViews": 644,
+    "PredictedJobViews": 413,
+    "ActiveJobs": 88
+  },
+  {
+    "Date": "2020-09-01",
+    "JobViews": 139,
+    "PredictedJobViews": 331,
+    "ActiveJobs": 73
+  },
+  {
+    "Date": "2020-09-02",
+    "JobViews": 981,
+    "PredictedJobViews": 170,
+    "ActiveJobs": 40
+  },
+  {
+    "Date": "2020-09-03",
+    "JobViews": 876,
+    "PredictedJobViews": 167,
+    "ActiveJobs": 28
+  },
+  {
+    "Date": "2020-09-04",
+    "JobViews": 999,
+    "PredictedJobViews": 360,
+    "ActiveJobs": 42
+  },
+  {
+    "Date": "2020-09-05",
+    "JobViews": 769,
+    "PredictedJobViews": 66,
+    "ActiveJobs": 40
+  },
+  {
+    "Date": "2020-09-06",
+    "JobViews": 860,
+    "PredictedJobViews": 492,
+    "ActiveJobs": 7
+  },
+  {
+    "Date": "2020-09-07",
+    "JobViews": 162,
+    "PredictedJobViews": 299,
+    "ActiveJobs": 44
+  },
+  {
+    "Date": "2020-09-08",
+    "JobViews": 928,
+    "PredictedJobViews": 85,
+    "ActiveJobs": 24
+  },
+  {
+    "Date": "2020-09-09",
+    "JobViews": 563,
+    "PredictedJobViews": 192,
+    "ActiveJobs": 88
+  },
+  {
+    "Date": "2020-09-10",
+    "JobViews": 182,
+    "PredictedJobViews": 191,
+    "ActiveJobs": 6
+  },
+  {
+    "Date": "2020-09-11",
+    "JobViews": 958,
+    "PredictedJobViews": 199,
+    "ActiveJobs": 85
+  },
+  {
+    "Date": "2020-09-12",
+    "JobViews": 484,
+    "PredictedJobViews": 442,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2020-09-13",
+    "JobViews": 125,
+    "PredictedJobViews": 260,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-09-14",
+    "JobViews": 292,
+    "PredictedJobViews": 343,
+    "ActiveJobs": 98
+  },
+  {
+    "Date": "2020-09-15",
+    "JobViews": 859,
+    "PredictedJobViews": 151,
+    "ActiveJobs": 64
+  },
+  {
+    "Date": "2020-09-16",
+    "JobViews": 767,
+    "PredictedJobViews": 68,
+    "ActiveJobs": 27
+  },
+  {
+    "Date": "2020-09-17",
+    "JobViews": 88,
+    "PredictedJobViews": 377,
+    "ActiveJobs": 59
+  },
+  {
+    "Date": "2020-09-18",
+    "JobViews": 918,
+    "PredictedJobViews": 39,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-09-19",
+    "JobViews": 739,
+    "PredictedJobViews": 60,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2020-09-20",
+    "JobViews": 778,
+    "PredictedJobViews": 107,
+    "ActiveJobs": 16
+  },
+  {
+    "Date": "2020-09-21",
+    "JobViews": 311,
+    "PredictedJobViews": 239,
+    "ActiveJobs": 27
+  },
+  {
+    "Date": "2020-09-22",
+    "JobViews": 251,
+    "PredictedJobViews": 308,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2020-09-23",
+    "JobViews": 251,
+    "PredictedJobViews": 101,
+    "ActiveJobs": 95
+  },
+  {
+    "Date": "2020-09-24",
+    "JobViews": 837,
+    "PredictedJobViews": 176,
+    "ActiveJobs": 98
+  },
+  {
+    "Date": "2020-09-25",
+    "JobViews": 844,
+    "PredictedJobViews": 374,
+    "ActiveJobs": 77
+  },
+  {
+    "Date": "2020-09-26",
+    "JobViews": 135,
+    "PredictedJobViews": 114,
+    "ActiveJobs": 18
+  },
+  {
+    "Date": "2020-09-27",
+    "JobViews": 710,
+    "PredictedJobViews": 348,
+    "ActiveJobs": 94
+  },
+  {
+    "Date": "2020-09-28",
+    "JobViews": 603,
+    "PredictedJobViews": 35,
+    "ActiveJobs": 30
+  },
+  {
+    "Date": "2020-09-29",
+    "JobViews": 815,
+    "PredictedJobViews": 186,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-09-30",
+    "JobViews": 888,
+    "PredictedJobViews": 235,
+    "ActiveJobs": 48
+  },
+  {
+    "Date": "2020-10-01",
+    "JobViews": 898,
+    "PredictedJobViews": 74,
+    "ActiveJobs": 19
+  },
+  {
+    "Date": "2020-10-02",
+    "JobViews": 829,
+    "PredictedJobViews": 32,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-10-03",
+    "JobViews": 151,
+    "PredictedJobViews": 376,
+    "ActiveJobs": 34
+  },
+  {
+    "Date": "2020-10-04",
+    "JobViews": 24,
+    "PredictedJobViews": 15,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2020-10-05",
+    "JobViews": 645,
+    "PredictedJobViews": 389,
+    "ActiveJobs": 76
+  },
+  {
+    "Date": "2020-10-06",
+    "JobViews": 261,
+    "PredictedJobViews": 182,
+    "ActiveJobs": 27
+  },
+  {
+    "Date": "2020-10-07",
+    "JobViews": 497,
+    "PredictedJobViews": 422,
+    "ActiveJobs": 26
+  },
+  {
+    "Date": "2020-10-08",
+    "JobViews": 530,
+    "PredictedJobViews": 251,
+    "ActiveJobs": 61
+  },
+  {
+    "Date": "2020-10-09",
+    "JobViews": 120,
+    "PredictedJobViews": 378,
+    "ActiveJobs": 62
+  },
+  {
+    "Date": "2020-10-10",
+    "JobViews": 218,
+    "PredictedJobViews": 5,
+    "ActiveJobs": 52
+  },
+  {
+    "Date": "2020-10-11",
+    "JobViews": 209,
+    "PredictedJobViews": 221,
+    "ActiveJobs": 43
+  },
+  {
+    "Date": "2020-10-12",
+    "JobViews": 789,
+    "PredictedJobViews": 387,
+    "ActiveJobs": 41
+  },
+  {
+    "Date": "2020-10-13",
+    "JobViews": 186,
+    "PredictedJobViews": 219,
+    "ActiveJobs": 67
+  },
+  {
+    "Date": "2020-10-14",
+    "JobViews": 64,
+    "PredictedJobViews": 228,
+    "ActiveJobs": 57
+  },
+  {
+    "Date": "2020-10-15",
+    "JobViews": 424,
+    "PredictedJobViews": 262,
+    "ActiveJobs": 13
+  },
+  {
+    "Date": "2020-10-16",
+    "JobViews": 86,
+    "PredictedJobViews": 301,
+    "ActiveJobs": 43
+  },
+  {
+    "Date": "2020-10-17",
+    "JobViews": 124,
+    "PredictedJobViews": 263,
+    "ActiveJobs": 30
+  },
+  {
+    "Date": "2020-10-18",
+    "JobViews": 975,
+    "PredictedJobViews": 154,
+    "ActiveJobs": 71
+  },
+  {
+    "Date": "2020-10-19",
+    "JobViews": 608,
+    "PredictedJobViews": 370,
+    "ActiveJobs": 32
+  },
+  {
+    "Date": "2020-10-20",
+    "JobViews": 424,
+    "PredictedJobViews": 457,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2020-10-21",
+    "JobViews": 572,
+    "PredictedJobViews": 157,
+    "ActiveJobs": 57
+  },
+  {
+    "Date": "2020-10-22",
+    "JobViews": 881,
+    "PredictedJobViews": 268,
+    "ActiveJobs": 49
+  },
+  {
+    "Date": "2020-10-23",
+    "JobViews": 70,
+    "PredictedJobViews": 26,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-10-24",
+    "JobViews": 726,
+    "PredictedJobViews": 80,
+    "ActiveJobs": 64
+  },
+  {
+    "Date": "2020-10-25",
+    "JobViews": 119,
+    "PredictedJobViews": 251,
+    "ActiveJobs": 49
+  },
+  {
+    "Date": "2020-10-26",
+    "JobViews": 826,
+    "PredictedJobViews": 217,
+    "ActiveJobs": 56
+  },
+  {
+    "Date": "2020-10-27",
+    "JobViews": 275,
+    "PredictedJobViews": 418,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-10-28",
+    "JobViews": 470,
+    "PredictedJobViews": 130,
+    "ActiveJobs": 86
+  },
+  {
+    "Date": "2020-10-29",
+    "JobViews": 655,
+    "PredictedJobViews": 20,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2020-10-30",
+    "JobViews": 445,
+    "PredictedJobViews": 7,
+    "ActiveJobs": 53
+  },
+  {
+    "Date": "2020-10-31",
+    "JobViews": 818,
+    "PredictedJobViews": 165,
+    "ActiveJobs": 77
+  },
+  {
+    "Date": "2020-11-01",
+    "JobViews": 216,
+    "PredictedJobViews": 85,
+    "ActiveJobs": 17
+  },
+  {
+    "Date": "2020-11-02",
+    "JobViews": 220,
+    "PredictedJobViews": 347,
+    "ActiveJobs": 70
+  },
+  {
+    "Date": "2020-11-03",
+    "JobViews": 338,
+    "PredictedJobViews": 210,
+    "ActiveJobs": 53
+  },
+  {
+    "Date": "2020-11-04",
+    "JobViews": 504,
+    "PredictedJobViews": 189,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2020-11-05",
+    "JobViews": 157,
+    "PredictedJobViews": 43,
+    "ActiveJobs": 49
+  },
+  {
+    "Date": "2020-11-06",
+    "JobViews": 944,
+    "PredictedJobViews": 131,
+    "ActiveJobs": 38
+  },
+  {
+    "Date": "2020-11-07",
+    "JobViews": 160,
+    "PredictedJobViews": 18,
+    "ActiveJobs": 66
+  },
+  {
+    "Date": "2020-11-08",
+    "JobViews": 241,
+    "PredictedJobViews": 337,
+    "ActiveJobs": 88
+  },
+  {
+    "Date": "2020-11-09",
+    "JobViews": 25,
+    "PredictedJobViews": 397,
+    "ActiveJobs": 15
+  },
+  {
+    "Date": "2020-11-10",
+    "JobViews": 961,
+    "PredictedJobViews": 62,
+    "ActiveJobs": 51
+  },
+  {
+    "Date": "2020-11-11",
+    "JobViews": 226,
+    "PredictedJobViews": 310,
+    "ActiveJobs": 88
+  },
+  {
+    "Date": "2020-11-12",
+    "JobViews": 358,
+    "PredictedJobViews": 242,
+    "ActiveJobs": 22
+  },
+  {
+    "Date": "2020-11-13",
+    "JobViews": 378,
+    "PredictedJobViews": 326,
+    "ActiveJobs": 56
+  },
+  {
+    "Date": "2020-11-14",
+    "JobViews": 386,
+    "PredictedJobViews": 379,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-11-15",
+    "JobViews": 424,
+    "PredictedJobViews": 412,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2020-11-16",
+    "JobViews": 946,
+    "PredictedJobViews": 401,
+    "ActiveJobs": 44
+  },
+  {
+    "Date": "2020-11-17",
+    "JobViews": 80,
+    "PredictedJobViews": 306,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-11-18",
+    "JobViews": 966,
+    "PredictedJobViews": 118,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-11-19",
+    "JobViews": 261,
+    "PredictedJobViews": 161,
+    "ActiveJobs": 29
+  },
+  {
+    "Date": "2020-11-20",
+    "JobViews": 501,
+    "PredictedJobViews": 489,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-11-21",
+    "JobViews": 769,
+    "PredictedJobViews": 28,
+    "ActiveJobs": 38
+  },
+  {
+    "Date": "2020-11-22",
+    "JobViews": 737,
+    "PredictedJobViews": 229,
+    "ActiveJobs": 6
+  },
+  {
+    "Date": "2020-11-23",
+    "JobViews": 208,
+    "PredictedJobViews": 362,
+    "ActiveJobs": 21
+  },
+  {
+    "Date": "2020-11-24",
+    "JobViews": 218,
+    "PredictedJobViews": 277,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2020-11-25",
+    "JobViews": 508,
+    "PredictedJobViews": 327,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2020-11-26",
+    "JobViews": 785,
+    "PredictedJobViews": 2,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-11-27",
+    "JobViews": 745,
+    "PredictedJobViews": 77,
+    "ActiveJobs": 69
+  },
+  {
+    "Date": "2020-11-28",
+    "JobViews": 679,
+    "PredictedJobViews": 436,
+    "ActiveJobs": 84
+  },
+  {
+    "Date": "2020-11-29",
+    "JobViews": 442,
+    "PredictedJobViews": 357,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-11-30",
+    "JobViews": 731,
+    "PredictedJobViews": 320,
+    "ActiveJobs": 48
+  },
+  {
+    "Date": "2020-12-01",
+    "JobViews": 139,
+    "PredictedJobViews": 274,
+    "ActiveJobs": 75
+  },
+  {
+    "Date": "2020-12-02",
+    "JobViews": 73,
+    "PredictedJobViews": 319,
+    "ActiveJobs": 51
+  },
+  {
+    "Date": "2020-12-03",
+    "JobViews": 258,
+    "PredictedJobViews": 25,
+    "ActiveJobs": 89
+  },
+  {
+    "Date": "2020-12-04",
+    "JobViews": 648,
+    "PredictedJobViews": 97,
+    "ActiveJobs": 84
+  },
+  {
+    "Date": "2020-12-05",
+    "JobViews": 534,
+    "PredictedJobViews": 134,
+    "ActiveJobs": 43
+  },
+  {
+    "Date": "2020-12-06",
+    "JobViews": 513,
+    "PredictedJobViews": 234,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-12-07",
+    "JobViews": 309,
+    "PredictedJobViews": 33,
+    "ActiveJobs": 62
+  },
+  {
+    "Date": "2020-12-08",
+    "JobViews": 671,
+    "PredictedJobViews": 296,
+    "ActiveJobs": 30
+  },
+  {
+    "Date": "2020-12-09",
+    "JobViews": 84,
+    "PredictedJobViews": 139,
+    "ActiveJobs": 50
+  },
+  {
+    "Date": "2020-12-10",
+    "JobViews": 651,
+    "PredictedJobViews": 443,
+    "ActiveJobs": 65
+  },
+  {
+    "Date": "2020-12-11",
+    "JobViews": 893,
+    "PredictedJobViews": 310,
+    "ActiveJobs": 97
+  },
+  {
+    "Date": "2020-12-12",
+    "JobViews": 678,
+    "PredictedJobViews": 328,
+    "ActiveJobs": 78
+  },
+  {
+    "Date": "2020-12-13",
+    "JobViews": 46,
+    "PredictedJobViews": 300,
+    "ActiveJobs": 21
+  },
+  {
+    "Date": "2020-12-14",
+    "JobViews": 333,
+    "PredictedJobViews": 490,
+    "ActiveJobs": 73
+  },
+  {
+    "Date": "2020-12-15",
+    "JobViews": 260,
+    "PredictedJobViews": 497,
+    "ActiveJobs": 66
+  },
+  {
+    "Date": "2020-12-16",
+    "JobViews": 275,
+    "PredictedJobViews": 324,
+    "ActiveJobs": 56
+  },
+  {
+    "Date": "2020-12-17",
+    "JobViews": 591,
+    "PredictedJobViews": 307,
+    "ActiveJobs": 29
+  },
+  {
+    "Date": "2020-12-18",
+    "JobViews": 275,
+    "PredictedJobViews": 459,
+    "ActiveJobs": 36
+  },
+  {
+    "Date": "2020-12-19",
+    "JobViews": 577,
+    "PredictedJobViews": 325,
+    "ActiveJobs": 76
+  },
+  {
+    "Date": "2020-12-20",
+    "JobViews": 911,
+    "PredictedJobViews": 379,
+    "ActiveJobs": 99
+  },
+  {
+    "Date": "2020-12-21",
+    "JobViews": 453,
+    "PredictedJobViews": 335,
+    "ActiveJobs": 24
+  },
+  {
+    "Date": "2020-12-22",
+    "JobViews": 172,
+    "PredictedJobViews": 18,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2020-12-23",
+    "JobViews": 666,
+    "PredictedJobViews": 378,
+    "ActiveJobs": 48
+  },
+  {
+    "Date": "2020-12-24",
+    "JobViews": 457,
+    "PredictedJobViews": 277,
+    "ActiveJobs": 60
+  },
+  {
+    "Date": "2020-12-25",
+    "JobViews": 699,
+    "PredictedJobViews": 185,
+    "ActiveJobs": 76
+  },
+  {
+    "Date": "2020-12-26",
+    "JobViews": 90,
+    "PredictedJobViews": 46,
+    "ActiveJobs": 0
+  },
+  {
+    "Date": "2020-12-27",
+    "JobViews": 255,
+    "PredictedJobViews": 4,
+    "ActiveJobs": 50
+  },
+  {
+    "Date": "2020-12-28",
+    "JobViews": 550,
+    "PredictedJobViews": 349,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2020-12-29",
+    "JobViews": 842,
+    "PredictedJobViews": 1,
+    "ActiveJobs": 3
+  },
+  {
+    "Date": "2020-12-30",
+    "JobViews": 751,
+    "PredictedJobViews": 262,
+    "ActiveJobs": 43
+  },
+  {
+    "Date": "2020-12-31",
+    "JobViews": 405,
+    "PredictedJobViews": 259,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2021-01-01",
+    "JobViews": 975,
+    "PredictedJobViews": 139,
+    "ActiveJobs": 96
+  },
+  {
+    "Date": "2021-01-02",
+    "JobViews": 730,
+    "PredictedJobViews": 273,
+    "ActiveJobs": 32
+  },
+  {
+    "Date": "2021-01-03",
+    "JobViews": 459,
+    "PredictedJobViews": 337,
+    "ActiveJobs": 42
+  },
+  {
+    "Date": "2021-01-04",
+    "JobViews": 302,
+    "PredictedJobViews": 367,
+    "ActiveJobs": 1
+  },
+  {
+    "Date": "2021-01-05",
+    "JobViews": 357,
+    "PredictedJobViews": 359,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2021-01-06",
+    "JobViews": 89,
+    "PredictedJobViews": 165,
+    "ActiveJobs": 18
+  },
+  {
+    "Date": "2021-01-07",
+    "JobViews": 836,
+    "PredictedJobViews": 45,
+    "ActiveJobs": 27
+  },
+  {
+    "Date": "2021-01-08",
+    "JobViews": 541,
+    "PredictedJobViews": 455,
+    "ActiveJobs": 40
+  },
+  {
+    "Date": "2021-01-09",
+    "JobViews": 754,
+    "PredictedJobViews": 104,
+    "ActiveJobs": 91
+  },
+  {
+    "Date": "2021-01-10",
+    "JobViews": 779,
+    "PredictedJobViews": 125,
+    "ActiveJobs": 13
+  },
+  {
+    "Date": "2021-01-11",
+    "JobViews": 900,
+    "PredictedJobViews": 483,
+    "ActiveJobs": 71
+  },
+  {
+    "Date": "2021-01-12",
+    "JobViews": 226,
+    "PredictedJobViews": 427,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2021-01-13",
+    "JobViews": 849,
+    "PredictedJobViews": 271,
+    "ActiveJobs": 81
+  },
+  {
+    "Date": "2021-01-14",
+    "JobViews": 177,
+    "PredictedJobViews": 366,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2021-01-15",
+    "JobViews": 200,
+    "PredictedJobViews": 198,
+    "ActiveJobs": 85
+  },
+  {
+    "Date": "2021-01-16",
+    "JobViews": 94,
+    "PredictedJobViews": 105,
+    "ActiveJobs": 59
+  },
+  {
+    "Date": "2021-01-17",
+    "JobViews": 779,
+    "PredictedJobViews": 462,
+    "ActiveJobs": 51
+  },
+  {
+    "Date": "2021-01-18",
+    "JobViews": 112,
+    "PredictedJobViews": 461,
+    "ActiveJobs": 20
+  },
+  {
+    "Date": "2021-01-19",
+    "JobViews": 855,
+    "PredictedJobViews": 6,
+    "ActiveJobs": 25
+  },
+  {
+    "Date": "2021-01-20",
+    "JobViews": 532,
+    "PredictedJobViews": 52,
+    "ActiveJobs": 100
+  },
+  {
+    "Date": "2021-01-21",
+    "JobViews": 966,
+    "PredictedJobViews": 185,
+    "ActiveJobs": 68
+  },
+  {
+    "Date": "2021-01-22",
+    "JobViews": 380,
+    "PredictedJobViews": 228,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2021-01-23",
+    "JobViews": 80,
+    "PredictedJobViews": 33,
+    "ActiveJobs": 49
+  },
+  {
+    "Date": "2021-01-24",
+    "JobViews": 684,
+    "PredictedJobViews": 56,
+    "ActiveJobs": 13
+  },
+  {
+    "Date": "2021-01-25",
+    "JobViews": 491,
+    "PredictedJobViews": 376,
+    "ActiveJobs": 89
+  },
+  {
+    "Date": "2021-01-26",
+    "JobViews": 24,
+    "PredictedJobViews": 68,
+    "ActiveJobs": 31
+  },
+  {
+    "Date": "2021-01-27",
+    "JobViews": 786,
+    "PredictedJobViews": 102,
+    "ActiveJobs": 50
+  },
+  {
+    "Date": "2021-01-28",
+    "JobViews": 677,
+    "PredictedJobViews": 294,
+    "ActiveJobs": 55
+  },
+  {
+    "Date": "2021-01-29",
+    "JobViews": 408,
+    "PredictedJobViews": 485,
+    "ActiveJobs": 76
+  },
+  {
+    "Date": "2021-01-30",
+    "JobViews": 333,
+    "PredictedJobViews": 168,
+    "ActiveJobs": 12
+  },
+  {
+    "Date": "2021-01-31",
+    "JobViews": 392,
+    "PredictedJobViews": 27,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2021-02-01",
+    "JobViews": 505,
+    "PredictedJobViews": 302,
+    "ActiveJobs": 64
+  },
+  {
+    "Date": "2021-02-02",
+    "JobViews": 633,
+    "PredictedJobViews": 180,
+    "ActiveJobs": 41
+  },
+  {
+    "Date": "2021-02-03",
+    "JobViews": 467,
+    "PredictedJobViews": 254,
+    "ActiveJobs": 4
+  },
+  {
+    "Date": "2021-02-04",
+    "JobViews": 738,
+    "PredictedJobViews": 71,
+    "ActiveJobs": 63
+  },
+  {
+    "Date": "2021-02-05",
+    "JobViews": 17,
+    "PredictedJobViews": 365,
+    "ActiveJobs": 93
+  },
+  {
+    "Date": "2021-02-06",
+    "JobViews": 224,
+    "PredictedJobViews": 96,
+    "ActiveJobs": 33
+  },
+  {
+    "Date": "2021-02-07",
+    "JobViews": 831,
+    "PredictedJobViews": 131,
+    "ActiveJobs": 32
+  },
+  {
+    "Date": "2021-02-08",
+    "JobViews": 565,
+    "PredictedJobViews": 307,
+    "ActiveJobs": 37
+  },
+  {
+    "Date": "2021-02-09",
+    "JobViews": 324,
+    "PredictedJobViews": 319,
+    "ActiveJobs": 90
+  },
+  {
+    "Date": "2021-02-10",
+    "JobViews": 403,
+    "PredictedJobViews": 254,
+    "ActiveJobs": 80
+  }
+]
