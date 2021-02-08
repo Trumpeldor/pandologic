@@ -1,14 +1,16 @@
 import React from "react";
 import { connect } from 'react-redux';
 import Chart from "react-google-charts";
+import Utils from '../../utils/Utils';
 
 function JobsChart({ jobs }) {
+  const showChart = Utils.isLongerArray(jobs, 1);
   return (
     <div className="JobsChart">
-      {(!Array.isArray(jobs) || jobs.length <= 1) && (<>
-      <label>No Chart data</label>
+      {!showChart && (<>
+      <label>No Chart Data</label>
       </>)}
-      {Array.isArray(jobs) && jobs.length > 1 && (
+      {showChart && (
       <Chart
         width={ '1600px' }
         height={ '800px' }
@@ -28,7 +30,7 @@ function JobsChart({ jobs }) {
 }
 
 export default connect(
-	state => ({
-		jobs: state.jobs
-	})
+  state => ({
+    jobs: state.jobs
+  })
 )(JobsChart)

@@ -1,10 +1,15 @@
+const clear = () => ({
+  type: "CLEAR"
+});
+
 const refresh = (data) => ({
-	type: "REFRESH",
-	payload: data
+  type: "REFRESH",
+  payload: data
 });
 
 const actions = {
-	refresh
+  clear,
+  refresh
 }
 
 export default actions;
