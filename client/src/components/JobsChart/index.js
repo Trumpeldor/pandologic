@@ -12,7 +12,7 @@ function JobsChart({ jobs }) {
       <Chart
         width={ '1600px' }
         height={ '800px' }
-        chartType="ComboChart"
+        chartType='ComboChart'
         loader={<div>Loading Chart</div>}
         data={ jobs }
         options={{
