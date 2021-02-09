@@ -1,6 +1,6 @@
 const Utils = {
-  isLongerArray(obj, threshold) {
-    return Array.isArray(obj) && Number.isInteger(threshold) && obj.length > threshold;
+  isLongerArray(arr, threshold) {
+    return Array.isArray(arr) && Number.isInteger(threshold) && arr.length > threshold;
   }
 }
 

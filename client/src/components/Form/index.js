@@ -20,16 +20,22 @@ function Form({ jobs, clear }) {
   };
   return (
     <form onSubmit={handleSubmit}>
+      <table>
+        <tbody>
+        <tr>
+          <td><label htmlFor='start'>Start Date:</label></td>
+          <td><DatePicker id='start' title='Start Date' selected={start} onChange={date => setStart(date)} /></td>
+        </tr>
+        <tr>
+          <td><label htmlFor='end'>End Date:</label></td>
+          <td><DatePicker id='end' title='End Date' selected={end} onChange={date => setEnd(date)} /></td>
+        </tr>
+        </tbody>
+      </table>
       <div>
-        <label htmlFor='start' title='start'>Start:</label>
-        <DatePicker id="start" selected={start} onChange={date => setStart(date)} />
+        <button title='Clear the chart' disabled={!Utils.isLongerArray(jobs, 1)} type='button' onClick={clear}>Clear</button>
+        <input title='Submit the dates' disabled={start > end} type='submit' value='Submit' />
       </div>
-      <div>
-        <label htmlFor='end' title='end'>End:</label>
-        <DatePicker id='end' selected={end} onChange={date => setEnd(date)} />
-      </div>
-      <button disabled={!Utils.isLongerArray(jobs, 1)} type='button' onClick={clear}>Clear</button>
-      <input disabled={start > end} type='submit' value='Submit' />
     </form>
   );
 }

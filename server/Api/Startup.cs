@@ -22,7 +22,7 @@ namespace Api
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
-        //    app.UseHttpsRedirection(); // FOR FIREFOX
+            app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthorization();
             app.UseCors(options => options.AllowAnyOrigin());
